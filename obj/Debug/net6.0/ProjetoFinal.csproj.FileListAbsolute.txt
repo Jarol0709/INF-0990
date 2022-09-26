@@ -1,0 +1,15 @@
+C:\Users\Jarol Butron\Documents\Microsoft\INF-0990\Projeto\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.exe
+C:\Users\Jarol Butron\Documents\Microsoft\INF-0990\Projeto\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.deps.json
+C:\Users\Jarol Butron\Documents\Microsoft\INF-0990\Projeto\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.runtimeconfig.json
+C:\Users\Jarol Butron\Documents\Microsoft\INF-0990\Projeto\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.dll
+C:\Users\Jarol Butron\Documents\Microsoft\INF-0990\Projeto\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\Jarol Butron\Documents\Microsoft\INF-0990\Projeto\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\Jarol Butron\Documents\Microsoft\INF-0990\Projeto\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarol Butron\Documents\Microsoft\INF-0990\Projeto\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\Jarol Butron\Documents\Microsoft\INF-0990\Projeto\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\Jarol Butron\Documents\Microsoft\INF-0990\Projeto\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jarol Butron\Documents\Microsoft\INF-0990\Projeto\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.dll
+C:\Users\Jarol Butron\Documents\Microsoft\INF-0990\Projeto\ProjetoFinal\obj\Debug\net6.0\refint\ProjetoFinal.dll
+C:\Users\Jarol Butron\Documents\Microsoft\INF-0990\Projeto\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\Jarol Butron\Documents\Microsoft\INF-0990\Projeto\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.genruntimeconfig.cache
+C:\Users\Jarol Butron\Documents\Microsoft\INF-0990\Projeto\ProjetoFinal\obj\Debug\net6.0\ref\ProjetoFinal.dll
